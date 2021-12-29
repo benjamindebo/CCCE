@@ -1,0 +1,15 @@
+- reminders to only "active" users
+- phone numbers need to be numbers only and 9 digits
+- translations missing
+- datatables in billing
+- change active credit card
+- how to sort new things as they are added in sortables?
+- Promo Codes:
+  The admin needs to have the ability to create the following promo codes:
+  * $ off
+  * % off
+  * X months free
+
+- Subscription confirmation email
+- Subscription renewal email
+- subscription payment processing
